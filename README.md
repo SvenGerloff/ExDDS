@@ -27,7 +27,7 @@ To set up the `exdds` environment using the provided `environment.yml` file.
 
 1. Ensure Conda is Installed
 
-2. Create the Environment: Run the following command in your terminal to create the Conda environment using the `recsys.yml` file:
+2. Create the Environment. Run the following commands in your terminal.
 
    ```bash
    conda env create -f environment.yml
