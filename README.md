@@ -1,11 +1,11 @@
 # 188.992 Experiment Design for Data Science 2024W
+**Exercise 2: Reproduce experimental results from a paper**
 
 ## Table of Contents
 - [Group Information](#group-information)
 - [Paper](#paper)
 - [Setup](#setup)
 - [Reproducing](#reproducing)
-
 
 ## Group Information
 **Group 7**
