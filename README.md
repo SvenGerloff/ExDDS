@@ -1,30 +1,41 @@
 # 188.992 Experiment Design for Data Science 2024W
 
-## Group 7
+## Table of Contents
+- [Group Information](#group-information)
+- [Paper](#paper)
+- [Setup](#setup)
+- [Reproducing](#reproducing)
+
+
+## Group Information
+**Group 7**
 
 Members: Johannes Oster, Amin Rashidual Saad, Teresa Schuch, Sven Gerloff
 
 ## Paper
+**Learning Recommendations from User Actions in the Item-poor Insurance Domain**
 
-- Learning Recommendations from User Actions in the Item-poor Insurance Domain.
-- Simone Borg Bruun, Maria Maistro, Christina Lioma (RecSys 2022)
-- https://doi.org/10.1145/3523227.3546775
+Authors: Simone Borg Bruun, Maria Maistro, Christina Lioma  
+
+Published at: RecSys 2022
+
+[https://doi.org/10.1145/3523227.3546775](https://doi.org/10.1145/3523227.3546775)
 
 ## Setup
 
-To set up the `recsys` environment using the provided `recsys.yml` file.
+To set up the `exdds` environment using the provided `environment.yml` file.
 
 1. Ensure Conda is Installed
 
 2. Create the Environment: Run the following command in your terminal to create the Conda environment using the `recsys.yml` file:
 
    ```bash
-   conda env create -f recsys.yml
+   conda env create -f environment.yml
 
 3. Activate the Environment
 
    ```bash
-   conda activate recsys
+   conda activate exdds
 
 ## Reproducing
 
