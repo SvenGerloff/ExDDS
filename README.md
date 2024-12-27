@@ -12,7 +12,7 @@ Members: Johannes Oster, Amin Rashidual Saad, Teresa Schuch, Sven Gerloff
 
 ## Setup
 
-## Reproducing Results
+## Reproducing
 
 ### Train and validate the models using
 
