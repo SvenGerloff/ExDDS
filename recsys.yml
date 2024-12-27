@@ -1,0 +1,30 @@
+name: recsys
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - plotly
+  - python-kaleido
+  - fastparquet
+  - tqdm
+  - yaml
+  - pyyaml
+  - imbalanced-learn
+  - pip
+  - pip:
+      - stanza
+  - pytorch
+  - gensim
+  - wandb
+  - transformers
+  - accelerate
+  - datasets
+
+
