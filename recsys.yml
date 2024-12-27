@@ -1,30 +1,18 @@
 name: recsys
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.9
-  - pandas
+  - python=3.8.11
+  - tensorflow=2.6.0
   - numpy
-  - scipy
+  - pandas
   - scikit-learn
-  - nltk
+  - scikit-survival
+  - statsmodels
+  - scipy
   - matplotlib
-  - plotly
-  - python-kaleido
-  - fastparquet
-  - tqdm
-  - yaml
-  - pyyaml
-  - imbalanced-learn
   - pip
   - pip:
-      - stanza
-  - pytorch
-  - gensim
-  - wandb
-  - transformers
-  - accelerate
-  - datasets
-
-
+      - pickle-mixin
+      - bioinfokit
