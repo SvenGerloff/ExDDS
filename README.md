@@ -12,6 +12,20 @@ Members: Johannes Oster, Amin Rashidual Saad, Teresa Schuch, Sven Gerloff
 
 ## Setup
 
+To set up the `recsys` environment using the provided `recsys.yml` file.
+
+1. Ensure Conda is Installed
+
+2. Create the Environment: Run the following command in your terminal to create the Conda environment using the `recsys.yml` file:
+
+   ```bash
+   conda env create -f recsys.yml
+
+3. Activate the Environment
+
+   ```bash
+   conda activate recsys
+
 ## Reproducing
 
 ### Train and validate the models using
