@@ -1,6 +1,6 @@
 # 188.992 Experiment Design for Data Science 2024W
 
-## Group 7: 
+## Group 7
 
 Members: Johannes Oster, Amin Rashidual Saad, Teresa Schuch, Sven Gerloff
 
