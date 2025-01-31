@@ -48,9 +48,15 @@ To set up the `exdds` environment using the provided `environment.yml` file.
 
 ## Reproducing
 
-### Train and Evaluate The Models
+### 1. Train and Evaluate The Models
 
-### Varying Thresholds Plot Implementation
+Run the script `train_and_evaluate_models.ipynb`. 
+
+- **Input:** The script trains and evalues the models based on the scripts and data provided by the orginal paper.
+- **Output:** It saves the model in a .h5 format and creates csv files for the model evalution.
+- **Save Location:** The generated files are saved in the folder `external_repo`.
+
+### 2. Varying Thresholds Plot Implementation
 
 We implemented the `varying_thresholds_plot.ipynb` script as it was missing from the original GitHub repository.
 
@@ -58,7 +64,7 @@ We implemented the `varying_thresholds_plot.ipynb` script as it was missing from
 - **Output:** It generates threshold plots for each model using for HR@k and MRR@k.
 - **Save Location:** The generated plots are saved in the folder `documents/varying_thresholds_plots`.
 
-### Statistical Significance Test Implementation
+### 3. Statistical Significance Test Implementation
 
 We implemented the `statistical_significance_test.ipynb` script as it was missing from the original GitHub repository.
 
