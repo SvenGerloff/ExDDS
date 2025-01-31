@@ -2,6 +2,10 @@
 
 **Exercise 2: Reproduce experimental results from a paper**
 
+## Zenodo Report
+
+[Report](https://zenodo.org/records/14781184)
+
 ## Table of Contents
 
 - [Group Information](#group-information)
