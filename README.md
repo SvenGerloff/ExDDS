@@ -4,7 +4,7 @@
 
 ## Zenodo Report
 
-[Report](https://zenodo.org/records/14781184)
+[Report](https://doi.org/10.5281/zenodo.14781184)
 
 ## Table of Contents
 
